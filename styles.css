@@ -1,0 +1,73 @@
+
+.flexbox1 {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding-top: 40px;
+   
+}
+
+
+.pic1{
+
+    height: 100px;
+    width: 100px;
+    padding-bottom: 20px;
+
+}
+
+.pic2{
+    height:420x;
+    width:740px;
+    padding-bottom:2px;
+}
+
+h2{
+    font-family: 'Almarai';
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.flexbox2 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+
+.img {
+    height:50px;
+    width: 160px;
+    padding: 5px;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+  }
+
+  .soc {
+    height:30px;
+    width: 30px;
+    margin-top: 20px;
+    
+  }
+
+
+  a {
+    padding:5px;
+    color: grey;
+    text-decoration: none;
+    font-size:13px;
+    font-family: 'Almarai';
+ }
+
+ a:hover {
+    color:black;
+    
+  }
+
+  p{
+    padding-bottom: 40px;
+  }
