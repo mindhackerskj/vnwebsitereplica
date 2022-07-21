@@ -14,12 +14,14 @@
     width: 100px;
     padding-bottom: 20px;
 
+
 }
 
 .pic2{
     height:420x;
     width:740px;
     padding-bottom:2px;
+    flex: 1 1 auto;
 }
 
 h2{
